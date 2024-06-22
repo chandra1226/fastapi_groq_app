@@ -1,0 +1,3 @@
+fastapi
+uvicorn
+groq  # Replace with the actual package name if different
